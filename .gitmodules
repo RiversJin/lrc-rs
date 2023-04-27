@@ -1,0 +1,3 @@
+[submodule "liblrc-sys/lrc-erasure-code"]
+	path = liblrc-sys/lrc-erasure-code
+	url = https://github.com/drmingdrmer/lrc-erasure-code.git

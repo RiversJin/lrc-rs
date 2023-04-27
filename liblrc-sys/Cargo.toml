@@ -1,0 +1,7 @@
+[package]
+name = "liblrc-sys"
+version = "0.1.0"
+
+[build-dependencies]
+bindgen = "*"
+cc = "*"
